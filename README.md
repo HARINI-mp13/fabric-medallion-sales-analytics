@@ -137,4 +137,4 @@ fabric-medallion-sales-analytics/
 
 ## Author
 
-**Harini** — Data Engineering Intern  
+**Harini**   
